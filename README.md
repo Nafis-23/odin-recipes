@@ -1,1 +1,2 @@
 # odin-recipes
+The goal of this project is to create a basic website with html and also to learn the basics of git with usage inside a project. Hopefully at the end of this lesson i can have a better understanding of git.
